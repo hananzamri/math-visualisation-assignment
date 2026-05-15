@@ -55,7 +55,7 @@ The assignment includes:
 ![Function Visualization - Own Equation](own_equation.png)
 
 ### Task 3: Student Score Data Visualization
-![Scatter plot - Midterm score and final score](sscore_scatter.png)
+![Scatter plot - Midterm score and final score](score_scatter.png)
 ![Histogram - Distibution of total scores](score_histogram.png)
 ![Bar chart - Student's total score](score_bar_chart.png)
 
