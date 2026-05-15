@@ -1,4 +1,4 @@
-# math-visualisation-assignment
+
 # Math Visualization Assignment
 
 ## Project Description
