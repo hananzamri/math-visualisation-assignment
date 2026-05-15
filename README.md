@@ -46,12 +46,27 @@ The assignment includes:
 4. Click Run or Run All
 
 ---
+## Generated Graphs
+
+### Task 1:
+![Mathematical Function Visualization](function_plot.png)
+
+### Task 2:
+![Function Visualization - Own Equation](own_equation.png)
+
+### Task 3: Student Score Data Visualization
+![Scatter plot - Midterm score and final score](sscore_scatter.png)
+![Histogram - Distibution of total scores](score_histogram.png)
+![Bar chart - Student's total score](score_bar_chart.png)
+
+### Task 4: Simple Prediction
+![Best Fit](score_prediction.png)
 
 ## Explanation
 
 ### How does visualization help us understand mathematical functions and data?
 
-Visualization makes complex mathematical relationships easier to understand. Graphs help us quickly identify patterns, trends, growth, and relationships between variables.
+Visualization makes complex mathematical relationships easier to understand. For example, graphs help us quickly identify patterns, trends, growth, and relationships between variables.
 
 ### Which plot was most useful in this assignment and why?
 
