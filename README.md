@@ -75,3 +75,10 @@ The best-fit line prediction plot was the most useful because it showed the rela
 ### What is the role of NumPy and Matplotlib in your project?
 
 NumPy was used for numerical calculations and generating data arrays efficiently. Matplotlib was used to create all graphs and visualizations.
+
+---
+## Open-Source Licensing & Attributions
+This project leverages open-source software libraries. In compliance with software transparency standards, the third-party components used are acknowledged below:
+
+* **NumPy**: Licensed under the BSD 3-Clause "New" or "Revised" License. Copyright (c) 2005-2026, NumPy Developers.
+* **Matplotlib**: Licensed under the Matplotlib License Agreement (BSD-compatible). Copyright (c) 2002-2026, Matplotlib Development Team.
